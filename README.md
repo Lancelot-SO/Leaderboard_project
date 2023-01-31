@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+<h3><b>Leaderboard</b></h3>
 
 </div>
 
@@ -62,10 +62,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Leaderboard_project] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Leaderboard_project]** is a...
-
 ## 🛠 Built With <a name="VSCode, Git and Github"></a>
 
 ### Tech Stack <a name="Html, Webpack, Gitflow, Linters, Css and JavaScript"></a>
@@ -73,7 +69,7 @@ After you're finished please remove all the comments and instructions!
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Client side is the language used to develop the project </summary>
   <ul>
     <li><a href="https://html.com/">Html</a></li>
     <li><a href="https://javascript.com/">JavaScript</a></li>
@@ -82,7 +78,7 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Server helps to host the project on a localhost </summary>
   <ul>
     <li><a href="https://webpack.js.org/guides/development/#using-webpack-dev-server">Webpack-dev-server</a></li>
   </ul>
@@ -113,7 +109,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link]()
+- [Live Demo Link](https://lancelot-so.github.io/Leaderboard_project/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
