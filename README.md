@@ -66,8 +66,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="Html, Webpack, Gitflow, Linters, Css and JavaScript"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client side is the language used to develop the project </summary>
   <ul>
