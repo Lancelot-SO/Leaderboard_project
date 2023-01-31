@@ -2,90 +2,87 @@ body {
   background-color: bisque;
   margin: 0;
   padding: 0;
-  
 }
 
 header {
-    padding-top: 100px;
+  padding-top: 100px;
 }
 
 .leader {
-    padding-left: 40px;
+  padding-left: 40px;
 }
 
 main {
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 100px;
 }
 
 .left {
-    width: 400px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .recent-score {
-    display: flex;
-    flex-direction: row;
-    gap: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
 }
 
 .recent-score button {
-    background-color: #fff;
-    border: none;
-    color: black;
-    padding: 5px 22px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
-    cursor: pointer;
-    box-shadow: 10px 5px 5px rgb(157, 154, 154);
+  background-color: #fff;
+  border: none;
+  color: black;
+  padding: 5px 22px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 10px 5px 5px rgb(157, 154, 154);
 }
 
 .scores {
-    border: 1px solid #fff;
-    width: 270px;
-    margin-top: 20px;
-
+  border: 1px solid #fff;
+  width: 270px;
+  margin-top: 20px;
 }
 
 .scores ul {
-    list-style: none;
-    padding: 0 10px 0 10px ;
+  list-style: none;
+  padding: 0 10px 0 10px;
 }
 
 .scores ul li {
-    margin: 5px 0;
-    background-color: #fff;
+  margin: 5px 0;
+  background-color: #fff;
 }
 
 .right {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .add-score form {
-    display: flex;
-    flex-direction: column;
-    margin-top: 50px;
-    width: 200px;
-    gap: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  width: 200px;
+  gap: 20px;
 }
 
 .add-score form button {
-    width: 100px;
-    margin-left: 100px;
-    background-color: #fff;
-    border: none;
-    cursor: pointer;
-    padding: 3px 2px;
-    box-shadow: 10px 5px 5px rgb(157, 154, 154);;
+  width: 100px;
+  margin-left: 100px;
+  background-color: #fff;
+  border: none;
+  cursor: pointer;
+  padding: 3px 2px;
+  box-shadow: 10px 5px 5px rgb(157, 154, 154);
 }
-
