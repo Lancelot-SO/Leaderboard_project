@@ -162,8 +162,11 @@ Install this project with:
 Example command:
 
 ```sh
-  cd my-project
-  gem install
+  cd Leaderboard_project
+  npm install webpack webpack-cli --save-dev
+  npx webpack
+  npm run build 
+  
 ```
 --->
 
@@ -174,8 +177,7 @@ To run the project, execute the following command:
 <!--
 Example command:
 
-```sh
-  rails server
+```npm start
 ```
 --->
 
@@ -187,7 +189,6 @@ To run tests, run the following command:
 Example command:
 
 ```sh
-  bin/rails test test/models/article_test.rb
 ```
 npm start
 --->
@@ -200,7 +201,7 @@ You can deploy this project using:
 Example:
 
 ```sh
-
+Github pages
 ```
  -->
 
@@ -218,11 +219,6 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/Lancelot_hans)
 - LinkedIn: [LinkedIn](www.linkedin.com/in/felix-sowah)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

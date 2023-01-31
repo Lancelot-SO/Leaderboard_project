@@ -2,6 +2,8 @@ body {
   background-color: bisque;
   margin: 0;
   padding: 0;
+  padding-left: 400px;
+  padding-top: 100px;
 }
 
 header {
