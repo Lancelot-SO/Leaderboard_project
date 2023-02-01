@@ -71,15 +71,13 @@ main {
   align-items: center;
 }
 
-.add-score form {
+.input {
   display: flex;
   flex-direction: column;
-  margin-top: 50px;
-  width: 200px;
   gap: 20px;
 }
 
-.add-score form button {
+.add-score button {
   width: 100px;
   margin-left: 100px;
   background-color: #fff;

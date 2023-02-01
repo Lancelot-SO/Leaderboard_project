@@ -15,26 +15,20 @@
         <section class="left">
             <div class="recent-score">
                 <h2>Recent Scores</h2>
-                <button type="reset">Refresh</button>
+                <button type="reset" id="refresh">Refresh</button>
             </div>
             <div class="scores">
-                <ul>
-                    <li>Lancelot : 100</li>
-                    <li>Lancelot : 100</li>
-                    <li>Lancelot : 100</li>
-                    <li>Lancelot : 100</li>
-                    <li>Lancelot : 100</li>
-                </ul>
+                <ul class="scoreslist"></ul>
             </div>
         </section>
         <section class="right">
             <div class="add-score">
                 <h2>Add your score</h2>
-                <form class="form" action="" method="post">
-                    <input type="text" placeholder="Your name"/>
-                    <input type="text" placeholder="Your score"/>
-                    <button type="submit">Submit</button>
-                </form>
+                <div class="input">
+                    <input type="text" id="user" placeholder="Your name"/>
+                    <input type="text" id="score" placeholder="Your score"/>
+                    <button type="submit" id="submitscore" class="submitscore">Submit</button>
+                </div>    
             </div>
         </section>
     </main>
