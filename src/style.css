@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
 body {
-  background-color: bisque;
+  background-color: #1d6cb1;
   margin: 0;
   padding: 0;
   padding-left: 400px;
@@ -36,21 +38,21 @@ main {
 }
 
 .recent-score button {
-  background-color: #fff;
+  background-color: #c96630;
   border: none;
-  color: black;
+  color: #fff;
   padding: 5px 22px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-  box-shadow: 10px 5px 5px rgb(157, 154, 154);
+  box-shadow: 10px 5px 5px #cb3535;
+  font-family: 'Lato', sans-serif;
 }
 
 .scores {
-  border: 1px solid #fff;
+  border: 1px solid #c96630;
   width: 270px;
   margin-top: 20px;
 }
@@ -58,11 +60,12 @@ main {
 .scores ul {
   list-style: none;
   padding: 0 10px 0 10px;
+  color: #fff;
 }
 
 .scores ul li {
   margin: 5px 0;
-  background-color: #fff;
+  background-color: #c96630;
 }
 
 .right {
@@ -75,14 +78,16 @@ main {
   display: flex;
   flex-direction: column;
   gap: 20px;
+  font-family: 'Lato', sans-serif;
 }
 
 .add-score button {
   width: 100px;
   margin-left: 100px;
-  background-color: #fff;
+  background-color: #c96630;
   border: none;
   cursor: pointer;
   padding: 3px 2px;
-  box-shadow: 10px 5px 5px rgb(157, 154, 154);
+  box-shadow: 10px 5px 5px #cb3535;
+  font-family: 'Lato', sans-serif;
 }
