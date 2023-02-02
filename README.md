@@ -143,14 +143,10 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:Lancelot-SO/Leaderboard_project.git
 ```
 ```
-    git@github.com:Lancelot-SO/Leaderboard_project.git 
 ```
-- Navigate to the Leaderboard_project with this command 
 ```
-    cd Leaderboard_project
 ```
 --->
 git clone git@github.com:Lancelot-SO/Leaderboard_project.git
