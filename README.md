@@ -148,11 +148,14 @@ Example commands:
 ```
     git@github.com:Lancelot-SO/Leaderboard_project.git 
 ```
-- Navigate to the To-do with this command 
+- Navigate to the Leaderboard_project with this command 
 ```
     cd Leaderboard_project
 ```
 --->
+git clone git@github.com:Lancelot-SO/Leaderboard_project.git
+Navigate to the Leaderboard_project with this command
+cd Leaderboard_project
 
 ### Install
 
@@ -161,14 +164,12 @@ Install this project with:
 <!--
 Example command:
 
-```sh
-  cd Leaderboard_project
-  npm install webpack webpack-cli --save-dev
-  npx webpack
-  npm run build 
-  
+```sh 
 ```
 --->
+  npm install webpack webpack-cli --save-dev
+  npx webpack
+  npm run build
 
 ### Usage
 
@@ -177,9 +178,10 @@ To run the project, execute the following command:
 <!--
 Example command:
 
-```npm start
+```
 ```
 --->
+npm start
 
 ### Run tests
 
@@ -190,8 +192,9 @@ Example command:
 
 ```sh
 ```
-npm start
+
 --->
+npm run build
 
 ### Deployment
 
@@ -201,9 +204,10 @@ You can deploy this project using:
 Example:
 
 ```sh
-Github pages
+
 ```
  -->
+ Github pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

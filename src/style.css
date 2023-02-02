@@ -88,6 +88,6 @@ main {
   border: none;
   cursor: pointer;
   padding: 3px 2px;
-  box-shadow: 10px 5px 5px #cb3535;
+  box-shadow: 10px 5px 5px rgb(203, 53, 53);
   font-family: 'Lato', sans-serif;
 }
